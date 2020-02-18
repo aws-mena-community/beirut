@@ -2,6 +2,12 @@
 
 This is the repository of the website [beirut.awsmena.community](https://beirut.awsmena.community). It is hosted directly from the repository as a [GitHub Pages](https://pages.github.com/) website.
 
+- [Local Setup](#local-setup)
+- [Add an event](#add-an-event)
+- [Create a new user group blog](#add-a-new-user-group-blog)
+- [Contributions](#contributions)
+- [Credits](#credits)
+
 ## Local Setup
 
 To preview the website locally:

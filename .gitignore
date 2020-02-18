@@ -1,0 +1,11 @@
+.DS_Store
+.jekyll-metadata
+
+_site/
+.bundle/
+node_modules/
+
+*.log
+
+# dotenv
+.env

@@ -1,0 +1,11 @@
+{
+  "name": "beirut.awsmena.community",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "bundle install && bundle exec jekyll serve",
+    "start": "npm run dev",
+    "create:post": "node cli/create-post.js"
+  }
+}

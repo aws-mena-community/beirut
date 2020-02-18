@@ -1,0 +1,7 @@
+title: AWS MENA Community Blog
+city: Beirut
+highlighter: rouge
+url: https://beirut.awsmena.community
+markdown: kramdown
+plugins:
+  - jekyll-redirect-from

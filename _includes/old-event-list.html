@@ -1,0 +1,8 @@
+{% for event in site.data.old-events %}
+<li class="list-group-item">
+  <a href="{{event.url}}">
+    <span class="font-weight-light">{{ event.date }}</span>
+    <span class="font-weight-bold">{{ event.title }}</span>
+  </a>
+</li>
+{% endfor %}

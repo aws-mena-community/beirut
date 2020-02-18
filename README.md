@@ -10,20 +10,10 @@ To preview the website locally:
 
 2. Install Jekyll and other [dependencies](https://pages.github.com/versions/) from the GitHub Pages gem:
 
-```sh
-$ bundle install
-```
-
-3. Run Jekyll using the following command :
+3. Install [Node](https://nodejs.org/en/download/).
 
 ```sh
-$ bundle exec jekyll serve
-```
-
-To preview the site with drafts, run jekyll serve with the `--drafts` switch:
-
-```sh
-$ bundle exec jekyll serve --drafts
+$ npm start
 ```
 
 Then, load [http://localhost:4000/](http://localhost:4000/) in your browser.

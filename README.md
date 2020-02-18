@@ -46,6 +46,7 @@ Replace YEAR MONTH and DAY with the date of the event.
 2. Replace events in `_data/old-events.yml` with your previous events or delete the file.
 3. In `_config.yml`, replace `city` with your city and url with `YOURCITY.awsmena.community`
 4. Delete posts and add your own as needed
+5. Replace `CNAME` file with `YOURCITY.awsmena.community`
 
 ## Contributions
 

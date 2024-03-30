@@ -18,6 +18,8 @@ To preview the website locally:
 
 3. Install [Node](https://nodejs.org/en/download/).
 
+*Note: this page has been last updated on March 30, 2024, where Ruby version 3.3.0 and Bundler 2.5.7 were used. As such, the gem 'csv' and gem 'webrick' have been added to the Gemfile explicitly as they are no longer by default through the current Ruby version. As a rule of thumb during installations, take into consideration the dependencies and package versions.*
+
 ```sh
 $ npm start
 ```
